@@ -35,17 +35,3 @@ Press space – Begin compressions
 Press c – Continue to the next step
 
 
-**🚀 Start Saving Lives Now!**__
-Whether you’re a first-time learner or refreshing your skills, this VR-based training will prepare you to handle real-life CPR scenarios with confidence. Ready to dive in? Start with Training Mode and work up to Practice Mode to hone your skills.
-
-
-_**Developed using Unity and C# for an impactful training experience.**_
-
-Made with ❤️ by Adithya
-
-
-**🌟 Key Features**
-_Realistic VR Environment_ – Experience lifelike CPR training for an engaging learning process.
-_On-Screen Guidance_ – Clear instructions guide you through each step.
-_Practice & Training Modes_ – Choose between guided training and self-driven practice sessions.
-
